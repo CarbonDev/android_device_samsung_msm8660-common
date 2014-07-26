@@ -129,3 +129,5 @@ BOARD_SEPOLICY_UNION += \
     wpa.te \
     wpa_socket.te
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
